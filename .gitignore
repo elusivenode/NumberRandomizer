@@ -1,0 +1,57 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+.swiftpm
+
+# Obj-C/Swift specific
+*.hmap
+*.ipa
+
+# CocoaPods (if you're using it)
+Pods/
+*.xcworkspace
+
+# Carthage (if you're using it)
+Carthage/Build/
+
+# Environment variables / API keys
+*.xcconfig
+Config.xcconfig
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode - User settings
+xcuserdata/
+
+# Xcode - Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.swiftpm/
